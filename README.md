@@ -53,3 +53,4 @@ You need Python installed.
 *Based on The Logic of Necessity.*
 
 ***
+![Universe Evolution](evolution.gif)
