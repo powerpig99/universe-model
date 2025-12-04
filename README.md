@@ -32,7 +32,6 @@ $$P(\text{Alive}) = 0.5 + \frac{\sum \text{Neighbors}}{\text{Total Potential}}$$
 
 *   If Neighbors are balanced (0 sum), the cell is in a state of Maximum Entropy (50% chance).
 *   If Neighbors are unanimous, the cell approaches Determinism (99.99% chance), but never reaches it.
-*   **The Result:** "Continents" of structure form to protect themselves from the Chaos of the Void.
 
 ## Running the Simulation
 
