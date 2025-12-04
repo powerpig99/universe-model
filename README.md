@@ -31,7 +31,7 @@ You need Python installed.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/universe-model.git
+    git clone https://github.com/powerpig99/universe-model.git
     cd universe-model
     ```
 
