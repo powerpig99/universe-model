@@ -25,7 +25,13 @@ In this model, the Universe does not just "happen" to a cell. The cell participa
 
 The simulation runs on a specific "Logic of Necessity" formula:
 
-$$State_{new} = \begin{cases} State_{current} & \text{if } Pulse = State_{current} \text{ (Inertia)} \\ \text{WeightedCollapse}(\sum Neighbors) & \text{if } Pulse \neq State_{current} \text{ (Conflict)} \end{cases}$$
+$$
+State_{new} =
+\begin{cases}
+State_{current} & \text{if } Pulse = State_{current} \text{ (Inertia)} \\
+\text{WeightedCollapse}(\sum Neighbors) & \text{if } Pulse \neq State_{current} \text{ (Conflict)}
+\end{cases}
+$$
 
 *   **Inertia Gate:** 50% of potential changes are blocked by the cell's own momentum. This creates **Surface Tension**, allowing solid-like structures to form.
 *   **Neighbor Logic:** When Inertia fails, the neighbors influence the collapse probability ($P = 0.5 + \text{Sum}/16$).
