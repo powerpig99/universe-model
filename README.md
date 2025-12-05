@@ -5,6 +5,7 @@
 This simulation models the Universe as a **Reaction-Diffusion System** derived from first principles. Unlike cellular automata (Deterministic), this model operates on **Quantized Fields**. It demonstrates how structure emerges from the interaction between an **Active Void (Indeterminism)** and **Geometric Resistance (Logic)**.
 
 ![Field Theory](field_theory.gif)
+
 *The Primordial Soup: High-energy fluid dynamics created by the interaction of the Active Void and Vacuum Infilling.*
 
 ## The Philosophy: Quantized Field Dynamics
