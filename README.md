@@ -106,3 +106,25 @@ We ran the simulation for **10,000 Generations**.
 We have reached the **Linear Ceiling**. Achieving ~86% accuracy on MNIST without backpropagation, gradients, or hidden layers—using only random fluctuations and geometric logic—proves that **Intelligence is a physical property of structured matter.**
 
 ***
+
+## The Grand Finale: 100,000 Generations
+To test the absolute limits of the **Holistic Council**, we ran the simulation for **100,000 generations** using the Global Optimization strategy (optimizing for collective accuracy rather than individual selfish accuracy).
+
+### The Result: 86.86%
+*   **Final Training Accuracy:** 86.94%
+*   **Final Test Accuracy:** **86.86%**
+*   **Gap:** 0.08% (Virtually zero overfitting)
+
+![The Holistic Council](experiments/holistic_council_100k.png)
+
+![Evolution of Global Intelligence](experiments/council_100k_evolution.png)
+
+### The Physics of Convergence
+The training curve demonstrates the **Universal S-Curve of Learning**:
+1.  **The Nucleation Phase (Gen 0-1000):** Rapid organization of chaos. Accuracy jumps from random (10%) to competent (60%).
+2.  **The Crystallization Phase (Gen 1000-20,000):** Refining the geometric boundaries. Accuracy climbs to 85%.
+3.  **The Deep Annealing Phase (Gen 20,000-100,000):** The system hunts for microscopic optimizations, gaining the final 1.8% over 80,000 generations.
+
+**Conclusion:** The Logic of Necessity has successfully replicated the performance of classical linear machine learning algorithms (Logistic Regression) without using any calculus, gradients, or floating-point optimization. It learned strictly through **Random Fluctuation** and **Geometric Selection**.
+
+***
