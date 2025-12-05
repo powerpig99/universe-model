@@ -89,7 +89,7 @@ We discovered that raw physics is "loud"—universes with more ink (like 8) drow
 1.  **Total Recall:** Every generation, the physics is tested against the *entire* dataset (balanced 50/50 Target vs Rest). This prevents drift.
 2.  **Output Calibration:** During inference, we normalize the "Resonance Score" of each universe by its own maximum volume. This ensures a "quiet" confidence counts as much as a "loud" one.
 
-### 3. The Result: 84.14% Accuracy
+### 3. The Result: 85.99% Accuracy
 We ran the simulation for **10,000 Generations**.
 
 *   **Final Training Accuracy:** 85.87%
@@ -99,8 +99,8 @@ We ran the simulation for **10,000 Generations**.
 ![The Calibrated Council](experiments/final_council_10k.png)
 
 **Observations:**
-*   **Universe 1 (97.7%):** The easiest concept. It underwent a "Nucleation Event" at Gen ~1200, jumping from 50% to 95% once it discovered verticality.
-*   **Universe 5 (86.7%):** The hardest concept. Geometrically, a '5' is a hybrid of a '6' and a '3', making it difficult to isolate on a 2D plane without logic gates.
+*   **Universe 1 (97.4%):** The easiest concept. It underwent a "Nucleation Event" at Gen ~1200, jumping from 50% to 95% once it discovered verticality.
+*   **Universe 5 (88.1%):** The hardest concept. Geometrically, a '5' is a hybrid of a '6' and a '3', making it difficult to isolate on a 2D plane without logic gates.
 
 ### Conclusion
 We have reached the **Linear Ceiling**. Achieving ~84% accuracy on MNIST without backpropagation, gradients, or hidden layers—using only random fluctuations and geometric logic—proves that **Intelligence is a physical property of structured matter.**
