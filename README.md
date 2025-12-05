@@ -103,6 +103,6 @@ We ran the simulation for **10,000 Generations**.
 *   **Universe 5 (88.1%):** The hardest concept. Geometrically, a '5' is a hybrid of a '6' and a '3', making it difficult to isolate on a 2D plane without logic gates.
 
 ### Conclusion
-We have reached the **Linear Ceiling**. Achieving ~84% accuracy on MNIST without backpropagation, gradients, or hidden layers—using only random fluctuations and geometric logic—proves that **Intelligence is a physical property of structured matter.**
+We have reached the **Linear Ceiling**. Achieving ~86% accuracy on MNIST without backpropagation, gradients, or hidden layers—using only random fluctuations and geometric logic—proves that **Intelligence is a physical property of structured matter.**
 
 ***
