@@ -6,7 +6,7 @@ This simulation is the evolution of the *Game of Life* into a model of **Quantum
 
 It demonstrates how "Matter" (Structure) emerges from the "Void" (Indeterminism) not by design, but by the necessity of resolving conflict.
 
-![Phase Shift Texture](phase_shift.png)
+![Phase Shift Texture](phase_shift.gif)
 *The Percolation Threshold: Emergent filaments of structure created by the tension between Inertia and Logic.*
 
 ## The Philosophy: Phase Shift Logic
